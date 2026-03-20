@@ -1,20 +1,37 @@
-1. Overview
+# 📘 Data Structures & Algorithms (DSA)
 
-“Collection of Data Structures & Algorithms problems solved in Java from platforms like LeetCode, GFG, and Codeforces.”
+## 🧾 Overview
+Collection of Data Structures & Algorithms problems solved in **Java** from platforms like **LeetCode**, **GeeksforGeeks**, and **Codeforces**.
 
-2. Topics Covered
+---
 
-Greedy
+## 📚 Topics Covered
+- Greedy
+- Recursion
+- (More coming soon...)
 
-Recursion
+---
 
-3. Platforms
+## 🌐 Platforms
+- LeetCode
+- GeeksforGeeks
+- Codeforces
 
-LeetCode
+---
 
-GeeksforGeeks
+## 📊 Progress Tracker
 
-4. Progress Tracker (🔥 very powerful)
-Topic	Problems Solved
-Greedy    4
+| Topic     | Problems Solved |
+|-----------|----------------|
+| Greedy    | 4              |
+| Recursion | 0              |
+
+---
+
+## 🎯 Goals
+- Strengthen problem-solving skills  
+- Master core DSA concepts  
+- Prepare for coding interviews  
+
+---
 
