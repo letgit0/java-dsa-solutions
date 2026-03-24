@@ -6,8 +6,9 @@ Collection of Data Structures & Algorithms problems solved in **Java** from plat
 ---
 
 ## 📚 Topics Covered
+- Array
 - Greedy
-- Recursion
+- Segment Tree
 - (More coming soon...)
 
 ---
@@ -22,9 +23,10 @@ Collection of Data Structures & Algorithms problems solved in **Java** from plat
 ## 📊 Progress Tracker
 
 | Topic     | Problems Solved |
-|-----------|----------------|
-| Greedy    | 4              |
-| Recursion | 0              |
+|--------------|----------------|
+| Array        | 2              |
+| Greedy       | 4              |
+| Segment Tree | 2              |
 
 ---
 
