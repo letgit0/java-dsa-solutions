@@ -9,6 +9,7 @@ Collection of Data Structures & Algorithms problems solved in **Java** from plat
 - Array
 - Greedy
 - Segment Tree
+- Heap
 - (More coming soon...)
 
 ---
@@ -26,8 +27,8 @@ Collection of Data Structures & Algorithms problems solved in **Java** from plat
 |--------------|----------------|
 | Array        | 2              |
 | Greedy       | 4              |
-| Segment Tree | 2              |
-
+| Segment Tree | 3              |
+| Heap         | 5              |
 ---
 
 ## 🎯 Goals
