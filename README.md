@@ -7,9 +7,11 @@ Collection of Data Structures & Algorithms problems solved in **Java** from plat
 
 ## 📚 Topics Covered
 - Array
+- String
 - Greedy
 - Segment Tree
 - Heap
+- Backtracking
 - (More coming soon...)
 
 ---
@@ -26,9 +28,11 @@ Collection of Data Structures & Algorithms problems solved in **Java** from plat
 | Topic     | Problems Solved |
 |--------------|----------------|
 | Array        | 2              |
+| String       | 2              |
 | Greedy       | 4              |
 | Segment Tree | 3              |
 | Heap         | 5              |
+| Backtracking | 4              |
 ---
 
 ## 🎯 Goals
