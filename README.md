@@ -12,7 +12,7 @@ Collection of Data Structures & Algorithms problems solved in **Java** from plat
 - Segment Tree
 - Heap
 - Backtracking
-- (More coming soon...)
+- Tree
 
 ---
 
@@ -32,7 +32,8 @@ Collection of Data Structures & Algorithms problems solved in **Java** from plat
 | Greedy       | 4              |
 | Segment Tree | 3              |
 | Heap         | 5              |
-| Backtracking | 4              |
+| Backtracking | 13             |
+| Tree         | 8              |
 ---
 
 ## 🎯 Goals
