@@ -3,16 +3,18 @@
 ## 🧾 Overview
 Collection of Data Structures & Algorithms problems solved in **Java** from platforms like **LeetCode**, **GeeksforGeeks**, and **Codeforces**.
 
+It is designed for interview preparation, concept revision, and consistent problem-solving practice.
+
 ---
 
 ## 📚 Topics Covered
-- Array
-- String
+- Arrays & Strings
 - Greedy
-- Segment Tree
-- Heap
 - Backtracking
+- Dynamic Programming
 - Tree
+- Heap
+- Segment Tree
 
 ---
 
@@ -27,13 +29,13 @@ Collection of Data Structures & Algorithms problems solved in **Java** from plat
 
 | Topic     | Problems Solved |
 |--------------|----------------|
-| Array        | 2              |
-| String       | 2              |
-| Greedy       | 4              |
+| Array        | 30             |
+| Greedy       | 6              |
 | Segment Tree | 3              |
 | Heap         | 5              |
 | Backtracking | 13             |
-| Tree         | 8              |
+| Tree         | 21             |
+| DP           | 12             |
 ---
 
 ## 🎯 Goals
