@@ -4,6 +4,13 @@
 // Difficulty: Easy
 
 // Approach: Dynamic Programming (Space Optimized)
+
+/*You want the minimum cost to reach the “top” (beyond the last index), where:
+dp[i]=min cost to reach step i
+And:
+dp[i]=min(dp[i−1]+cost[i−1], dp[i−2]+cost[i−2])
+*/
+
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 
