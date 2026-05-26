@@ -8,6 +8,9 @@
 // 2. If the same remainder appears again, it means the subarray between these indices has a sum divisible by k.
 // 3. Keep track of the minimum length of such subarrays.
 
+//If  prefix[j] modk = prefix[i] modk    then    (prefix[j]−prefix[i])modk=0
+
+
 // Time Complexity: O(n) - where n is the length of the array.
 // Space Complexity: O(min(n, k)) - as we are using a hash map to store remainders.
 
